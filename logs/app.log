@@ -1,0 +1,15 @@
+INFO [27-07-2024 17:21:30] App - Application started
+WARN [27-07-2024 17:21:30] App - This is a warning
+ERROR [27-07-2024 17:21:30] App - An error occurred
+FATAL [27-07-2024 17:21:30] App - Fatal error!
+ERROR [27-07-2024 17:21:30] CustomApp - Custom error occurred
+INFO [20-08-2024 10:13:51] App - Application started
+WARN [20-08-2024 10:13:51] App - This is a warning
+ERROR [20-08-2024 10:13:51] App - An error occurred
+FATAL [20-08-2024 10:13:51] App - Fatal error!
+ERROR [20-08-2024 10:13:51] CustomApp - Custom error occurred
+INFO [20-08-2024 15:41:55] App - Application started
+WARN [20-08-2024 15:41:55] App - This is a warning
+ERROR [20-08-2024 15:41:55] App - An error occurred
+FATAL [20-08-2024 15:41:55] App - Fatal error!
+ERROR [20-08-2024 15:41:55] CustomApp - Custom error occurred
